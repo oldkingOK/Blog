@@ -1,11 +1,5 @@
-# Obsidian Notes
+# 你好~
 
-Publish your public notes with MkDocs
+![[Pulana2.jpg|200]]
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+这里是 oldkingOK 的博客（图片来自 [pixiv](https://www.pixiv.net/en/artworks/115017109)）
