@@ -19,3 +19,22 @@ oldkingOK 的Obsidian仓库模板，包含了一些插件和仓库设置，避�
 | [sunxvming/obsidian-vscode-editor](https://github.com/sunxvming/obsidian-vscode-editor)                   | 代码编辑  | MIT     | 设置里添加了yml |
 | [NomarCub/obsidian-open-vscode](https://github.com/NomarCub/obsidian-open-vscode)                         | 打开vsc | MIT     |           |
 
+## 部署
+
+### 在 github 上
+
+等待 Github Action 构建成功之后，
+
+Settings - Pages - Build and deployment
+
+- Source - Deploy from a branch
+- 选择 `gh-pages` 分支
+
+### 在本地
+
+```shell
+python -m venv .venv
+.\.venv\Scripts\activate # Windows
+source .venv/Scripts/activate # Unix
+mkdocs serve
+```
