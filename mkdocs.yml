@@ -1,10 +1,10 @@
 site_name: oldkingOK's Blog
-site_url: https://blog.oldkingok.cc
+site_url: https://oldkingok.cc
 
 theme:
     name: 'material'
     features: 
-      - navigation.instant
+      # - navigation.instant
       - navigation.top
       - search.suggest # 搜索提示
       - search.highlight # 搜索高亮
